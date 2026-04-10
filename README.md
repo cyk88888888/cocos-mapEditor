@@ -15,5 +15,5 @@ mac
 
 
 打开地图资源：
-1、先克隆地图资源仓库 https://gitee.com/chen-yang-kun/cocos-mapDataRes
+1、先克隆地图资源仓库 https://github.com/cyk88888888/cocos-mapDataRes.git
 2、在地图编辑器左上角点击打开按钮，选择地图资源的其中一个文件夹即可打开
